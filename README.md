@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kellen
 - 👀 I’m interested in building full-stack web applications  
-- 🌱 I’m currently learning ES6, React, and TypeScript 
+- 🌱 I’m currently learning ES6+, React, and TypeScript 
 - 💞️ I’m looking to collaborate on JavaScript based projects
 - 📫 How to reach me kellenkjames@gmail.com 
 
