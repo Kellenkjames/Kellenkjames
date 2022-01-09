@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kellen
+- 👋 Hi, I’m Kellen James 
 - 👀 I’m interested in building full-stack web applications  
 - 🌱 I’m currently learning ES6+, React, and TypeScript 
 - 💞️ I’m looking to collaborate on JavaScript based projects
