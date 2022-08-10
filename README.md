@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kellen 
 - 👀 I’m interested in building full-stack web applications  
 - 🌱 I’m currently learning Ruby + JavaScript 
-- 💞️ I’m looking to collaborate on JavaScript based projects
+- 💞️ I’m looking to collaborate on crypto projects. 
 - 📫 How to reach me kellenkjames@gmail.com 
 
 <!---
