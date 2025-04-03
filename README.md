@@ -1,4 +1,4 @@
-# ⚫ Kellen James
+# Kellen James
 
 Frontend Developer | Web3 Strategist | Founder of [DeFi Buckhead](https://www.linkedin.com/in/kellenkjames)
 
