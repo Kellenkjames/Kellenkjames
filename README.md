@@ -7,7 +7,7 @@ Frontend Developer | Web3 Strategist | Founder of [DeFi Buckhead](https://www.li
 ## ⚫ About Me
 
 - Web Development Supervisor @ UPS  
-- Currently focused on mastering **Modern JavaScript + Angular** for frontend architecture and MVP development  
+- Currently focused on **Modern JavaScript + Angular** for frontend architecture and MVP development  
 - Founder of **DeFi Buckhead** — a research-driven platform helping founders, investors, and fintech professionals succeed in the digital asset economy  
 - Graduate student in **Digital Financial Technologies** (MS-Fintech, Kennesaw State University)  
 - Building at the intersection of strategy, product, and decentralized systems  
@@ -16,7 +16,7 @@ Frontend Developer | Web3 Strategist | Founder of [DeFi Buckhead](https://www.li
 
 ## 🔳 Tech Stack
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript (ES6+), Angular (in progress), Bootstrap
+- **Languages & Frameworks:** HTML, CSS, JavaScript (ES6+), Angular, Bootstrap
 - **Tools:** Git, VS Code, Sass, Figma, Cursor AI, Parcel
 - **Learning Focus:** Angular architecture, RxJS, Web3 MVP scaffolding, frontend testing 
 
